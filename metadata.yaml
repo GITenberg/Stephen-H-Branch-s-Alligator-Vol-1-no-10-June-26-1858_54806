@@ -1,11 +1,16 @@
 _repo: Stephen-H-Branch-s-Alligator-Vol-1-no-10-June-26-1858_54806
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54806-h/images/cover.jpg
 creator:
   editor:
     agent_name: Branch, Stephen H.
     gutenberg_agent_id: '44730'
     url: http://www.gutenberg.org/2009/agents/44730
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54806#Stephen-H-Branch-s-Alligator-Vol-1-no-10-June-26-1858
 gutenberg_issued: '2017-05-29'
 gutenberg_type: Text
 identifiers:
